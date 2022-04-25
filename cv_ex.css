@@ -25,9 +25,9 @@ div {
 }
 
 #footer {
-  height: 30px;
+  height: 50px;
   width: 100%;
-  background-color: #AED6F1;
+  background-color: #ffcccc;
   clear: both;
   position: relative;
 }
