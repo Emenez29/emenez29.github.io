@@ -13,7 +13,7 @@ body{
 
 a{
   text-decoration: none;
-  color: #FFFFFF;
+  color: #D35400;
 }
 
 a:hover{
@@ -46,12 +46,12 @@ h3{
   color: #D35400;
 }
 
-.text-o{
-  color: #A04000;
-}
-
 .text-darkblue{
   color: #002060;
+}
+
+.text-o{
+  color: #A04000;
 }
 
 .text-uppercase{
