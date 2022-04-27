@@ -110,6 +110,10 @@ h3{
 }
 
 /* HEADER */
+.main-header {
+  text-align: center;
+}
+
 .header{
   grid-area: header;
   padding: 50px;
