@@ -112,6 +112,8 @@ h3{
 /* HEADER */
 .main-header {
   text-align: center;
+  height: 300px;
+  width: auto;
 }
 
 .header{
