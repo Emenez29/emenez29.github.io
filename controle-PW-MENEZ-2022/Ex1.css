@@ -6,6 +6,7 @@
     width: auto;
     margin: auto;
   }
+
   
 /* LEFT COLUMN */
 .left-column{
@@ -26,6 +27,13 @@
     background-color: #7B7D7D;
     color: white;
   }
+
+  .h2{
+    margin: 0 0 1rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
 
 /* CENTER COLUMN */
 .center-column{
