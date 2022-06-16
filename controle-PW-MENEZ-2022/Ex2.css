@@ -43,7 +43,7 @@
   }
   
   .text-orange{
-    color: #D35400;
+    color: #0066CC;
   }
   
   .text-black{
@@ -51,7 +51,7 @@
   }
   
   .text-o{
-    color: #A04000;
+    color: #0066CC;
   }
   
   .text-uppercase{
@@ -79,7 +79,7 @@
   .left-column{
     grid-area: left-column;
     padding: 50px;
-    background-color: #D35400;
+    background-color: #0066CC;
     color: white;
   }
   .portait{
