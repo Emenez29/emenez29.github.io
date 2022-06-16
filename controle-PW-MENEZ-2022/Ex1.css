@@ -1,16 +1,39 @@
+/* GENERAL */
+.tableau-contenair{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "left-column center-column right-column";
+    width: auto;
+    margin: auto;
+  }
+
 /* LEFT COLUMN */
 .left-column{
+    width: 50px;
+    margin: 500px;
     grid-area: left-column;
     padding: 50px;
     background-color: #7B7D7D;
     color: white;
-  
   }
-  .skills{
-    list-style-type: none;
-    padding: 0;
-    font-size: 1.1rem;
-    letter-spacing: 1px;
-    margin: 0 0 1rem;
+
+/* CENTER COLUMN */
+.center-column{
+    width: 50px;
+    margin: 500px;
+    grid-area: center-column;
+    padding: 50px;
+    background-color: #B3B6B7;
+    color: white;
+  }
+
+  /* RIGHT COLUMN */
+  .right-column{
+    width: 50px;
+    margin: 500px;
+    grid-area: right-column;
+    padding: 50px;
+    background-color: #979A9A;
+    color: white;
   }
   
