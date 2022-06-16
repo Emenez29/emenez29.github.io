@@ -6,12 +6,14 @@
     width: auto;
     margin: auto;
   }
-
+  
 /* LEFT COLUMN */
 .left-column{
     width: 50px;
     margin: 500px;
     grid-area: left-column;
+    display: grid;
+    grid-template-rows: 100px 1fr;
     margin-left: 15px;
     margin-right: 5px;
     margin-top: 5px;
@@ -31,6 +33,8 @@
     width: 50px;
     margin: 500px;
     grid-area: center-column;
+    display: grid;
+    grid-template-rows: 250px 1fr;
     margin-left: 250px;
     margin-right: 5px;
     margin-top: 5px;
@@ -45,6 +49,8 @@
     width: 50px;
     margin: 500px;
     grid-area: right-column;
+    display: grid;
+    grid-template-rows: 350px 1fr;
     margin-left: 700px;
     margin-right: 5px;
     margin-top: 5px;
