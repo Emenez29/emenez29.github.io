@@ -1,0 +1,24 @@
+#rectangle 1 {
+    width  : 100px;
+    height : 50px;
+    background : grey;
+  }
+
+  #rectangle 2 {
+    width  : 50px;
+    height : 100px;
+    background : #7B7D7D;
+  }
+
+  #rectangle 3 {
+    width  : 50px;
+    height : 70px;
+    background : #616A6B;
+  }
+
+  #rectangle 4 {
+    width  : 200px;
+    height : 30px;
+    background : #616A6B;
+  }
+
