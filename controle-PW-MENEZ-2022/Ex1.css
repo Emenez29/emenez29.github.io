@@ -12,7 +12,7 @@
     width: 50px;
     margin: 500px;
     grid-area: left-column;
-    margin-left: 5px;
+    margin-left: 15px;
     margin-right: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -27,6 +27,7 @@
 
 /* CENTER COLUMN */
 .center-column{
+    position: relative;
     width: 50px;
     margin: 500px;
     grid-area: center-column;
